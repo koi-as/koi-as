@@ -1,4 +1,4 @@
-# Hi, I'm Koi!
+# Hi, I'm Koi / Alex!
 
 ## I’m currently interested in...
 - Web development
