@@ -12,7 +12,7 @@
 - MERN stack
 
 ## How you can reach me!
-- Discord: [ Koi ]#0179
+- Discord: `@__koi_`
 - Email: alextseidensticker@gmail.com
 - LinkedIn: [My Profile](https://www.linkedin.com/in/alex-koi-seidensticker/)
 
